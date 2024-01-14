@@ -1,1 +1,1 @@
-This opml file contains a feed of my favorite podcasts.
+This opml file contains the feeds of my favorite podcasts.
